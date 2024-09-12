@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>apiKey</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">8bbb07dec36092106a191dd1b4013148</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 11:48:09</sys_created_on>
+        <sys_id>c3cb839ec32092106a191dd1b40131a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>apiKey</sys_name>
+        <sys_package display_value="Snow Rest API Demo" source="x_1355734_snow_res">efb6f2d2c32092106a191dd1b40131db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Snow Rest API Demo">efb6f2d2c32092106a191dd1b40131db</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_c3cb839ec32092106a191dd1b40131a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 11:48:09</sys_updated_on>
+        <value>024555e3081b496a999f7b50b7e1d318</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
