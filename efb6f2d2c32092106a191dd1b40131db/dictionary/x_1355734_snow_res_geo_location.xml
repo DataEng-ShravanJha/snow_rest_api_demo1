@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d377f616c32092106a191dd1b40131c8" label="Geo Location" max_length="40" name="x_1355734_snow_res_geo_location" type="collection">
+        <element label="Country" max_length="50" name="country" read_only="true" type="string"/>
+        <element label="City" max_length="50" name="city" read_only="true" type="string"/>
+        <element label="TimeZone" max_length="10" name="timezone" read_only="true" type="string"/>
+        <element label="Currency" max_length="20" name="currency" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Enter IP address" mandatory="true" max_length="40" name="enter_ip_address" type="string"/>
+    </element>
+</database>
